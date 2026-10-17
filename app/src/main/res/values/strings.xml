@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">محاضراتي | College Recorder</string>
+    <string name="recording">جاري التسجيل…</string>
+    <string name="recording_paused">التسجيل متوقف مؤقتاً</string>
+    <string name="stop_recording">إيقاف التسجيل</string>
+    <string name="pause_recording">إيقاف مؤقت</string>
+    <string name="resume_recording">استئناف</string>
+    <string name="new_lecture">محاضرة جديدة</string>
+    <string name="subjects">المواد</string>
+    <string name="all_lectures">كل المحاضرات</string>
+    <string name="search_hint">ابحث في المحاضرات…</string>
+    <string name="transcribing">جاري التحويل لنص…</string>
+    <string name="transcription_done">تم التحويل بنجاح</string>
+    <string name="export">تصدير</string>
+    <string name="share">مشاركة</string>
+    <string name="delete">حذف</string>
+    <string name="rename">إعادة تسمية</string>
+    <string name="summary">تلخيص</string>
+    <string name="key_points">النقاط المهمة</string>
+    <string name="notification_channel_name">تسجيل المحاضرات</string>
+    <string name="notification_channel_desc">إشعارات التسجيل في الخلفية</string>
+    <string name="battery_optimization_title">تحسين البطارية</string>
+    <string name="battery_optimization_message">عشان التطبيق يشتغل كويس في الخلفية، لازم تستثنيه من تحسين البطارية</string>
+    <string name="allow">السماح</string>
+    <string name="later">لاحقاً</string>
+    <string name="no_lectures">مفيش محاضرات لسه</string>
+    <string name="start_first_lecture">ابدأ أول محاضرة</string>
+    <string name="duration">المدة</string>
+    <string name="language">اللغة</string>
+    <string name="arabic">العربية</string>
+    <string name="english">English</string>
+    <string name="auto_detect">تلقائي</string>
+</resources>
