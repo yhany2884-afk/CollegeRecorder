@@ -1,29 +1,15 @@
 # محاضراتي
 
-تطبيق أندرويد لتسجيل محاضرات الكلية، يشتغل في الخلفية، ويحوّل الكلام لنص.
+مشروع Android Studio. تسجيل محاضرات، تشغيل في الخلفية، وتحويل الكلام لنص.
 
-## التحميل
+## تحميل
 
-| الملف | الرابط |
-|---|---|
-| تطبيق أندرويد (APK) | [mohadarat.apk](https://github.com/yhany2884-afk/CollegeRecorder/releases/download/v1.0.0/mohadarat.apk) |
-| كل الإصدارات | [Releases](https://github.com/yhany2884-afk/CollegeRecorder/releases/latest) |
-| كود النسخة الشغالة | [مجلد mohadarat](https://github.com/yhany2884-afk/CollegeRecorder/tree/main/mohadarat) |
-
-ثبّت ملف الـ APK من الموبايل. لو أندرويد منع التثبيت، اسمح بالتثبيت من هذا المصدر.
-
-## المميزات
-
-- تسجيل صوت AAC والتشغيل في الخلفية مع إشعار فيه زر إنهاء
-- إيقاف مؤقت واستئناف
-- تحويل الكلام لنص بالعربي أو الإنجليزي (خدمة التعرف في أندرويد، ومحتاج نت وقت التحويل)
-- بحث في العنوان والمادة والنص والملاحظات
-- تلخيص، ملاحظات، وتصدير النص
+- [mohadarat.apk](https://github.com/yhany2884-afk/CollegeRecorder/releases/download/v1.0.0/mohadarat.apk)
+- [الإصدارات](https://github.com/yhany2884-afk/CollegeRecorder/releases/latest)
 
 ## فتح المشروع
 
-1. افتح مجلد `mohadarat` في Android Studio
-2. JDK 17 وجهاز أندرويد API 26 أو أحدث
-3. اضغط Run
-
-الصوت بيتسجل حتى لو التحويل لنص ما اشتغلش.
+1. Android Studio مع JDK 17
+2. File ثم Open على مجلد المشروع
+3. انتظر Gradle Sync
+4. Run على جهاز API 26 أو أحدث

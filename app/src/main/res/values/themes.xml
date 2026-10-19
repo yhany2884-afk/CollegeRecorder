@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.CollegeRecorder" parent="android:Theme.Material.Light.NoActionBar">
-        <item name="android:statusBarColor">@android:color/transparent</item>
-        <item name="android:navigationBarColor">@android:color/transparent</item>
-        <item name="android:windowLightStatusBar">true</item>
+    <style name="Theme.Mohadarat" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:statusBarColor">#101418</item>
+        <item name="android:navigationBarColor">#101418</item>
+        <item name="android:windowBackground">#101418</item>
+        <item name="colorPrimary">#C4A46A</item>
+        <item name="colorOnPrimary">#1A1408</item>
+        <item name="android:textColor">#EEF2F5</item>
+        <item name="android:layoutDirection">rtl</item>
     </style>
 </resources>
